@@ -95,7 +95,15 @@ If you are collecting your own data, decide how long you will need to collect it
 
 ### 3. Differentiate Data Formats and Structures
 
+#### 3.1. Discover data formats
 
+> ##### 💡 Points to Ponder
+>
+> - **Discrete Data:** Data that is counted and has a limited number of values.
+> - **Continuous Data:** Data that is measured and can have almost any numerical value.
+> - **Nominal Data:** A type of qualitative data that is categorized without a set order.
+> - **Ordinal Data:** A type of qualitative data with a set order or scale.
+> - 
 
 ## 🌟 MODULE 2: Data Responsibility
 
